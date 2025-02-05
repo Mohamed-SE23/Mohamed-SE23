@@ -35,8 +35,8 @@ Here are some ideas to get you started:
 ## 📫 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mohamed-alamen-02268a245)  
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://x.com/mohamed06641482)  
-
+<!--
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohamed-SE23&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-SE23&layout=compact)
-
+-->
 
