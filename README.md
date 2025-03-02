@@ -10,18 +10,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-# Hi, I'm Mohamed Alamen! 👋
-
-🚀 Passionate Web Developer | React & Node.js Enthusiast  
-🎯 Currently learning: AI integration with web development  
-🔨 Working on exciting open-source projects  
-
-## 🔧 Skills & Technologies:
-- **Frontend:** HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS, bootstrap, saas
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB, PostgreSQL, MySQL
-- **Tools & Platforms:** Docker, GitHub Actions, Render  
+- ⚡ Fun fact: ... 
 
 ## 📌 Featured Projects:
 - [AI Productivity Assistant]((https://ai-powered-productivity-assistant.vercel.app/)) – Built with React & Tailwind (for frontend), Node.js & express.js (for backend)
@@ -37,7 +26,7 @@ Here are some ideas to get you started:
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohamed-SE23&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-SE23&layout=compact)
 -->
--->
+<img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
 # 💫 About Me:
 # Hi, I'm Mohamed Alamen! 👋
