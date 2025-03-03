@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohamed-SE23&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-SE23&layout=compact)
 -->
-<img src="banner_github.jpeg" alt="GitHub Banner" width="100%" />
+<img src="banner_github.jpeg" alt="GitHub Banner image" width="100%" />
 
 <!-- # 💫 About Me: -->
 ## Hi, I'm Mohamed Alamen! 👋
